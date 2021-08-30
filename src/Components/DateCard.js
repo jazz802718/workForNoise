@@ -7,10 +7,10 @@ function DateCard(props) {
         style={{
           display: "flex",
           backgroundColor: "#128944",
-          fontSize: "2.0em",
+          fontSize: "2em",
           textAlign: "left",
           justifyContent: "space-around",
-          lineHeight: "2em",
+          lineHeight: "2.3em",
           color: "white",
         }}
       >
